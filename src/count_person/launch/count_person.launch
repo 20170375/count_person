@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="count_person" name="count_person" type="count_person" output="screen"> </node>
+</launch>

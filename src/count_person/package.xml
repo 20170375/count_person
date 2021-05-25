@@ -1,0 +1,21 @@
+<package>
+  <name>count_person</name>
+  <version>0.0.0</version>
+  <description>The count_person package</description>
+
+  <maintainer email="dmlcjf0215@naver.com">euicheol</maintainer>
+  <maintainer email="twilight4206@naver.com">Joon</maintainer>
+  <maintainer email="sw980907@naver.com">seungwon</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend> 
+  <build_depend>std_msgs</build_depend>
+  <build_depend>darknet_ros_msgs</build_depend>
+
+  <run_depend>roscpp</run_depend> 
+  <run_depend>std_msgs</run_depend> 
+  <run_depend>darknet_ros_msgs</run_depend>
+</package>
