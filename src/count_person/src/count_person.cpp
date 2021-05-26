@@ -28,12 +28,12 @@ namespace count_person
 
     void CountPerson::run()
     {
-        std_msgs::Int32 a;
-        a.data = count_;
+        std_msgs::Int32 si;
+        si.data = count_;
         
         ROS_INFO("Person_num : %d", count_);
 
-        pub_num_.publish(a);
+        pub_num_.publish(si);
     }
 }
 
