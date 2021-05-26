@@ -4,4 +4,4 @@
     YOLO darknet_ros on JetSon Board
 <hr/>
 
-<img src="https://user-images.githubusercontent.com/62216628/119532110-8a340400-bdbf-11eb-9753-e566f3c2bb6a.png" width="47%" align="center">
+<img src="https://user-images.githubusercontent.com/62216628/119532110-8a340400-bdbf-11eb-9753-e566f3c2bb6a.png" width="80%" align="center">
