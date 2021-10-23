@@ -6,3 +6,6 @@
 <hr/>
 
 <img src="https://user-images.githubusercontent.com/62216628/119596640-88e3f500-be1a-11eb-9433-369c1b09a1dd.png" width="80%" align="center">
+
+## Refernece 
++ [[PDF] Jetson Board 실습 강의자료](https://github.com/20170375/count_person/blob/master/JetSon%20Board%20YOLO%20darknet.pdf)
